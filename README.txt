@@ -1,0 +1,1 @@
+This function downloads all jpgs from a given website's body into a specified directory on your computer.
